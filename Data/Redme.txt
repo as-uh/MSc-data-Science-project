@@ -1,0 +1,4 @@
+GAIA.txt  -  contain theoretical isochrones based on Gaia colours
+Panstar.txt - contain theoretical isochrones based on Panstar colours
+
+The analysis data is not available as it is not a publicly available yet. Hence, cant be provided here. 
